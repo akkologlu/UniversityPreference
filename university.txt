@@ -1,0 +1,20 @@
+1,Orta Doğu Teknik Üniversitesi Bilgisayar Mühendisliği,600,2
+2,İstanbul Üniversitesi Tıp Fakültesi,500,3
+3,Mugla Sıtkı Koçman Üniversitesi Bilgisayar Mühendisliği,380,4
+4,Koç Üniversitesi Ekonomi,440,3
+5,Boğaziçi Üniversitesi Gazetecilik,450,2
+6,Hacettepe Üniversitesi Hemşirelik, 350,3
+7,Marmara Üniversitesi Hukuk,420,1
+8,Ankara Üniversitesi Ziraat Mühendisliği,320,3
+9,Konya Üniversitesi Radyo Sinema Televizyon,200,2
+10,Sakarya Üniversitesi Mimarlık,340,3
+11,Samsun Ondokuz Mayıs Üniversitesi Kimya Mühendisliği,280,3
+12,Ege Üniversitesi Biyoloji,210,6
+13,Akdeniz Üniversitesi Fizyoterapi,340,3
+14,Gazi Üniversitesi Makine Mühendisliği,400,4
+15,Türk Hava Kurumu Üniversitesi Pilotaj,550,1
+16,Aydın Adnan Menderes Üniversitesi Bilgisayar Mühendisliği,320,3
+17,Pamukkale Üniversitesi İnşaat Mühendisliği,180,2
+18,Bahçeşehir Üniversitesi Tercümanlık,240,3
+19,Haliç Üniversitesi Veterinerlik,310,2
+20,Mimar Sinan Üniversitesi İç Mimarlık,410,2

@@ -1,0 +1,61 @@
+100000,Sezanur,Şendiller,A,40,0,0,40.0,600.0,Orta Doğu Teknik Üniversitesi Bilgisayar Mühendisliği,Mugla Sıtkı Koçman Üniversitesi Bilgisayar Mühendisliği
+100001,Seher,Şengül,B,40,0,0,40.0,600.0,İstanbul Üniversitesi Tıp Fakültesi,Koç Üniversitesi Ekonomi
+100002,Nejat,Şenocak,A,36,4,0,35.0,525.0,Sakarya Üniversitesi Mimarlık,Koç Üniversitesi Ekonomi
+100003,Yeliz,Şenyurd,B,32,5,3,30.75,461.25,Mimar Sinan Üniversitesi İç Mimarlık,Mugla Sıtkı Koçman Üniversitesi Bilgisayar Mühendisliği
+100004,Ali,Şerbetçi,A,37,2,1,36.5,547.5,Orta Doğu Teknik Üniversitesi Bilgisayar Mühendisliği,Boğaziçi Üniversitesi Gazetecilik
+100005,Ada,Şeref,B,24,0,16,24.0,360.0,Marmara Üniversitesi Hukuk,Ankara Üniversitesi Ziraat Mühendisliği
+100006,Yunus,Şerifoğlu,B,26,11,3,23.25,348.75,Koç Üniversitesi Ekonomi,Haliç Üniversitesi Veterinerlik
+100007,Melike,Şevkin,B,34,6,0,32.5,487.5,Haliç Üniversitesi Veterinerlik,Mimar Sinan Üniversitesi İç Mimarlık
+100008,Mehveş,Tabak,A,26,8,6,24.0,360.0,Aydın Adnan Menderes Üniversitesi Bilgisayar Mühendisliği,Mimar Sinan Üniversitesi İç Mimarlık
+100009,Furkan,Tabanlı,B,35,5,0,33.75,506.25,Gazi Üniversitesi Makine Mühendisliği,Orta Doğu Teknik Üniversitesi Bilgisayar Mühendisliği
+100010,Aykan,Tabir,B,36,0,4,36.0,540.0,Orta Doğu Teknik Üniversitesi Bilgisayar Mühendisliği,Boğaziçi Üniversitesi Gazetecilik
+100011,Ahmet,Taç,A,33,6,1,31.5,472.5,Konya Üniversitesi Radyo Sinema Televizyon,Boğaziçi Üniversitesi Gazetecilik
+100012,Dilara,Taçgın,B,33,2,5,32.5,487.5,Koç Üniversitesi Ekonomi,Mugla Sıtkı Koçman Üniversitesi Bilgisayar Mühendisliği
+100013,Miraç,Tahir,A,27,7,6,25.25,378.75,İstanbul Üniversitesi Tıp Fakültesi,Konya Üniversitesi Radyo Sinema Televizyon
+100014,Kardelen,Tahmazoğlu,B,25,13,2,21.75,326.25,Mugla Sıtkı Koçman Üniversitesi Bilgisayar Mühendisliği,Koç Üniversitesi Ekonomi
+100015,Pınar,Talantemur,A,28,10,2,25.5,382.5,Hacettepe Üniversitesi Hemşirelik,Mugla Sıtkı Koçman Üniversitesi Bilgisayar Mühendisliği
+100016,Arel,Talaş,A,40,0,0,40.0,600.0,Ankara Üniversitesi Ziraat Mühendisliği,Sakarya Üniversitesi Mimarlık
+100017,Ayşegül,Tanbaşı,B,33,7,0,31.25,468.75,Samsun Ondokuz Mayıs Üniversitesi Kimya Mühendisliği,Pamukkale Üniversitesi İnşaat Mühendisliği
+100018,Farshad,Tanış,A,27,10,3,24.5,367.5,Akdeniz Üniversitesi Fizyoterapi,Mugla Sıtkı Koçman Üniversitesi Bilgisayar Mühendisliği
+100019,Güzin,Tanrıkulu,B,28,6,6,26.5,397.5,Pamukkale Üniversitesi İnşaat Mühendisliği,Boğaziçi Üniversitesi Gazetecilik
+100020,Ebru,Tarakçı,A,28,12,0,25.0,375.0,Ege Üniversitesi Biyoloji,Hacettepe Üniversitesi Hemşirelik
+100021,Numan,Tarhan,A,25,15,0,21.25,318.75,Aydın Adnan Menderes Üniversitesi Bilgisayar Mühendisliği,Haliç Üniversitesi Veterinerlik
+100022,Çeliker,Tarlakazan,B,28,12,0,25.0,375.0,Koç Üniversitesi Ekonomi,İstanbul Üniversitesi Tıp Fakültesi
+100023,Seven,Taş,A,31,9,0,28.75,431.25,Orta Doğu Teknik Üniversitesi Bilgisayar Mühendisliği,İstanbul Üniversitesi Tıp Fakültesi
+100024,Bala,Taşak,B,30,0,10,30.0,450.0,Mimar Sinan Üniversitesi İç Mimarlık,Orta Doğu Teknik Üniversitesi Bilgisayar Mühendisliği
+100025,Köker,Taşcıoğlu,A,33,7,0,31.25,468.75,İstanbul Üniversitesi Tıp Fakültesi,Ankara Üniversitesi Ziraat Mühendisliği
+100026,Batuğhan,Taşğın,B,37,3,0,36.25,543.75,Konya Üniversitesi Radyo Sinema Televizyon,Bahçeşehir Üniversitesi Tercümanlık
+100027,Güven,Taşlı,A,11,29,0,3.75,56.25,İstanbul Üniversitesi Tıp Fakültesi,Pamukkale Üniversitesi İnşaat Mühendisliği
+100028,Ecegül,Taşyürek,B,30,10,0,27.5,412.5,Akdeniz Üniversitesi Fizyoterapi,Koç Üniversitesi Ekonomi
+100029,Beyzanur,Tatlı,A,30,7,3,28.25,423.75,Koç Üniversitesi Ekonomi,Gazi Üniversitesi Makine Mühendisliği
+100030,Kerem,Tatlısu,B,33,6,1,31.5,472.5,Boğaziçi Üniversitesi Gazetecilik,Bahçeşehir Üniversitesi Tercümanlık
+100031,Abdüssamet,Tayan,B,33,7,0,31.25,468.75,Ankara Üniversitesi Ziraat Mühendisliği,Gazi Üniversitesi Makine Mühendisliği
+100032,Tilbe,Tayfun,A,36,2,2,35.5,532.5,İstanbul Üniversitesi Tıp Fakültesi,Boğaziçi Üniversitesi Gazetecilik
+100033,İsmail,Tazegül,B,40,0,0,40.0,600.0,Marmara Üniversitesi Hukuk,Konya Üniversitesi Radyo Sinema Televizyon
+100034,Oğur,Tecer,A,30,10,0,27.5,412.5,Konya Üniversitesi Radyo Sinema Televizyon,Mimar Sinan Üniversitesi İç Mimarlık
+100035,Aktan,Teker,B,29,11,0,26.25,393.75,Koç Üniversitesi Ekonomi,İstanbul Üniversitesi Tıp Fakültesi
+100036,Ahmet,Tekin,A,33,7,0,31.25,468.75,Orta Doğu Teknik Üniversitesi Bilgisayar Mühendisliği,Koç Üniversitesi Ekonomi
+100037,Deniz,Tekşan,B,35,5,0,33.75,506.25,İstanbul Üniversitesi Tıp Fakültesi,Boğaziçi Üniversitesi Gazetecilik
+100038,Umut,Tektaş,B,35,5,0,33.75,506.25,Ankara Üniversitesi Ziraat Mühendisliği,Konya Üniversitesi Radyo Sinema Televizyon
+100039,Işıltan,Tekten,A,37,3,0,36.25,543.75,Orta Doğu Teknik Üniversitesi Bilgisayar Mühendisliği,İstanbul Üniversitesi Tıp Fakültesi
+100040,Erdem,Temizer,B,36,4,0,35.0,525.0,Haliç Üniversitesi Veterinerlik,Bahçeşehir Üniversitesi Tercümanlık
+100041,Atalay,Tenim,A,30,10,0,27.5,412.5,Mimar Sinan Üniversitesi İç Mimarlık,Haliç Üniversitesi Veterinerlik
+100042,Ali,Tercan,B,36,4,0,35.0,525.0,Koç Üniversitesi Ekonomi,Mimar Sinan Üniversitesi İç Mimarlık
+100043,Sabiha,Terzi,A,35,0,5,35.0,525.0,Ankara Üniversitesi Ziraat Mühendisliği,Bahçeşehir Üniversitesi Tercümanlık
+100044,Yakup,Tetik,B,34,6,0,32.5,487.5,Konya Üniversitesi Radyo Sinema Televizyon,Haliç Üniversitesi Veterinerlik
+100045,Talya,Tezmen,A,33,7,0,31.25,468.75,Koç Üniversitesi Ekonomi,Gazi Üniversitesi Makine Mühendisliği
+100046,Tuğbanur,Tiftikci,B,33,7,0,31.25,468.75,Mugla Sıtkı Koçman Üniversitesi Bilgisayar Mühendisliği,Akdeniz Üniversitesi Fizyoterapi
+100047,Aktaç,Togay,A,35,5,0,33.75,506.25,Marmara Üniversitesi Hukuk,İstanbul Üniversitesi Tıp Fakültesi
+100048,Ahucan,Toğan,B,32,5,3,30.75,461.25,Ankara Üniversitesi Ziraat Mühendisliği,Orta Doğu Teknik Üniversitesi Bilgisayar Mühendisliği
+100049,Saime,Tokaç,A,36,4,0,35.0,525.0,Mimar Sinan Üniversitesi İç Mimarlık,İstanbul Üniversitesi Tıp Fakültesi
+100050,Doğcan,Tokalı,A,36,4,0,35.0,525.0,Koç Üniversitesi Ekonomi,İstanbul Üniversitesi Tıp Fakültesi
+100051,Bilhan,Tokatlıoğlu,B,37,3,0,36.25,543.75,Koç Üniversitesi Ekonomi,Orta Doğu Teknik Üniversitesi Bilgisayar Mühendisliği
+100052,Muhammed,Tokdoğan,A,36,4,0,35.0,525.0,Ankara Üniversitesi Ziraat Mühendisliği,İstanbul Üniversitesi Tıp Fakültesi
+100053,Şükrü,Toker,A,40,0,0,40.0,600.0,Türk Hava Kurumu Üniversitesi Pilotaj,Konya Üniversitesi Radyo Sinema Televizyon
+100054,Ecenur,Tokgöz,A,38,2,0,37.5,562.5,Pamukkale Üniversitesi İnşaat Mühendisliği,İstanbul Üniversitesi Tıp Fakültesi
+100055,Baysal,Tolunay,B,37,3,0,36.25,543.75,Haliç Üniversitesi Veterinerlik,Koç Üniversitesi Ekonomi
+100056,Müge,Topal,B,33,7,0,31.25,468.75,Gazi Üniversitesi Makine Mühendisliği,Konya Üniversitesi Radyo Sinema Televizyon
+100057,Dilşah,Topalan,A,35,3,2,34.25,513.75,İstanbul Üniversitesi Tıp Fakültesi,Konya Üniversitesi Radyo Sinema Televizyon
+100058,Saliha,Topoyan,A,35,5,0,33.75,506.25,Konya Üniversitesi Radyo Sinema Televizyon,Gazi Üniversitesi Makine Mühendisliği
+100059,Tarcan,Toptan,B,39,0,1,39.0,585.0,Ankara Üniversitesi Ziraat Mühendisliği,Ege Üniversitesi Biyoloji
+100060,Rüya,Torğutalp,A,11,21,8,5.75,86.25,İstanbul Üniversitesi Tıp Fakültesi,Koç Üniversitesi Ekonomi
